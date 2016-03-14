@@ -28,6 +28,11 @@
     td {
       padding: 0;
     }
+    .text{
+    font-family: sans-serif;
+    font-size: 12px;
+    line-height: 18px;
+  }
   </style>
 </head>
 <body yahoo>
@@ -39,16 +44,142 @@
   <table>
     <tbody>
       <tr>
-        <td style="background-color: #2a2c33; width: 100%;">
+        <td colspan="1" style="width: 50%; background-color: #252830;">
           <img src="img/logo.png"/>
         </td>
-        <td><img src="img/img2.png"></td>
+        <td colspan="1" style="width: 50%; background-color: #252830;">
+          <img style="float:right;" src="img/img2.png">
+        </td>
       </tr>
       <tr>
-        <td colspan="2" style="background-color: green">daniel</td>
+        <td colspan="2" style="height: 315px;"> 
+          <p class="text" style="color: black; text-align: center; width: 70%; margin: 0 auto;">
+            Somos una empresa de telecomunicaciones y brindamos servicios de rastreo vehicular, el cual le brindara mayor tranquilidad, logística y reducción de gastos operativos.
+          </p>
+          <br/><br/>
+          <p class="text" style="color: black; text-align: center; width: 70%; margin: 0 auto;">
+            Contamos con un departamento de desarrollo tecnológico para poder generar cualquier reporte que nuestros clientes requieran y mantener el funcionamiento al 100% de nuestra plataforma, que es totalmente independiente y propia.
+          </p>
+          <br/><br/>
+          <p class="text" style="color: black; text-align: center; width: 70%; margin: 0 auto;">
+            Nuestro particular distintivo es la calidad y servicio personalizado a cada uno de nuestros clientes.
+          </p>
+        </td>
       </tr>
       <tr>
-        <td></td>
+        <td colspan="2" style="height: 170px; background-color: #19a9f2; text-align: center; align: center;">
+          <img src="img/img3.png" style="margin: 0 auto"/>
+          <p class="text" style="color: white; width: 80%; margin-top: 20px; color: white; text-align: center; margin: 0 auto; padding-top: 10px;">
+            Contamos con el reconocimiento propio de nuestros clientes, ya que hemos sido y somos innovadores al brindar soluciones a sus problemas de logística, seguridad y control de activos.
+          </p>
+        </td>
+      </tr>
+      <tr height="200px">
+        <td colspan="2" background="img/beneficios.png" style="background-size: cover">
+          <img src="img/img4.png" style="margin: 0 auto"/>
+      </tr>
+      <tr>
+        <td colspan="1" style="height: 60px;">
+          <p class="text" style="color: black; text-align: left; margin: 0 auto; width: 70%;">
+            Localización en <b>tiempo real</b> de sus unidades.
+          </p>  
+        </td>
+        <td colspan="1" style="height: 60px; background-color: #f3f3f4;">
+          <p class="text" style="color: black; text-align: left; margin: 0 auto; width: 70%;">
+            Consumo de <b>combustible</b>.
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="1" style="height: 60px; background-color: #f3f3f4;">
+          <p class="text" style="color: black; text-align: left; margin: 0 auto; width: 70%;">
+            Monitoreo a través de portal <b>web</b> y dispositivo <b>móvil</b>.
+          </p>
+        </td>
+        <td colspan="1" style="height: 60px;">
+          <p class="text" style="color: black; text-align: left; margin: 0 auto; width: 70%;">
+            Reportes <b>exportables</b> (Excel).
+          </p>  
+        </td>
+      </tr>
+      <tr>
+        <td colspan="1" style="height: 60px;">
+          <p class="text" style="color: black; text-align: left; margin: 0 auto; width: 70%;">
+            Aviso de <b>motor</b> encendido/apagado, aperturas de puertas, botón de pánico.
+          </p>  
+        </td>
+        <td colspan="1" style="height: 60px; background-color: #f3f3f4;">
+          <p class="text" style="color: black; text-align: left; margin: 0 auto; width: 70%;">
+            Plataforma fácil, dinámica y acceso <b>ilimitado</b>.
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="1" style="height: 60px; background-color: #f3f3f4;">
+          <p class="text" style="color: black; text-align: left; margin: 0 auto; width: 70%;">
+            Alerta de exceso de <b>velocidad</b>.
+          </p>
+        </td>
+        <td colspan="1" style="height: 60px;">
+          <p class="text" style="color: black; text-align: left; margin: 0 auto; width: 70%;">
+            Call center <b>24/7</b>.
+          </p>  
+        </td>
+      </tr>
+      <tr>
+        <td colspan="1" style="height: 60px;">
+          <p class="text" style="color: black; text-align: left; margin: 0 auto; width: 70%;">
+            Históricos de <b>movimientos y rutas</b> de la unidad.
+          </p>  
+        </td>
+        <td colspan="1" style="height: 60px; background-color: #f3f3f4;">
+          <p class="text" style="color: black; text-align: left; margin: 0 auto; width: 70%;">
+            Capacitación <b>constante</b>.
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="1" style="height: 60px; background-color: #f3f3f4;">
+          <p class="text" style="color: black; text-align: left; margin: 0 auto; width: 70%;">
+            <b>Reporte</b> sobre tiempos muertos y activos.
+          </p>
+        </td>
+        <td colspan="1" style="height: 60px;">
+          <p class="text" style="color: black; text-align: left; margin: 0 auto; width: 70%;">
+            Puntos de interés <b>ilimitados</b>.
+          </p>  
+        </td>
+      </tr>
+      <tr>
+        <td colspan="1" style="height: 60px;">
+          <p class="text" style="color: black; text-align: left; margin: 0 auto; width: 70%;">
+            Alerta vía <b>email</b> de movimientos no autorizados.
+          </p>  
+        </td>
+        <td colspan="1" style="height: 60px; background-color: #f3f3f4;">
+          <p class="text" style="color: black; text-align: left; margin: 0 auto; width: 70%;">
+            Creación de <b>subcuentas</b>.
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="1" style="height: 60px; background-color: #f3f3f4;">
+          <p class="text" style="color: black; text-align: left; margin: 0 auto; width: 70%;">
+            Cartografía <b>Google y Street View</b>.
+          </p>
+        </td>
+        <td colspan="1" style="height: 60px;">
+          <p class="text" style="color: black; text-align: left; margin: 0 auto; width: 70%;">
+            Desglose de <b>kilometraje</b> por unidades.
+          </p>  
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2" style="height: 60px; background-color: #fafafa">
+          <p class="text" style="color: black; text-align: center; margin: 0 auto; width: 70%">
+            Entre otros...
+          </p>
+        </td>
       </tr>
     </tbody>
   </table>
