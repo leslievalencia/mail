@@ -218,7 +218,7 @@
         </td>
       </tr>
       <tr>
-        <td colspan="1" background="http://i.imgur.com/UzCc9rK.png" style="background-repeat: no-repeat; background-position: right; background-size: cover;">
+        <td colspan="1" background="http://i.imgur.com/UzCc9rK.png" style="background-repeat: no-repeat; background-position: right; background-size: cover; background-color: #101620">
         </td>
         <td colspan="1">
           <img style="margin-top: 30px; margin-bottom: 30px;" src="http://i.imgur.com/iB1MyuM.png"/>
@@ -268,7 +268,7 @@
     </tbody>
   </table>
 
-  <table class="content cnt-mobile">
+  <table class="content cnt-mobile" style="margin: 0 auto;">
     <tbody>
       <tr>
         <td colspan="1" style="width: 50%; background-color: #252830;">
