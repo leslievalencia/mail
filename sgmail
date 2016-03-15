@@ -447,7 +447,7 @@
         </td>
       </tr>
       <tr height="200px">
-        <td colspan="2" background="img/nuevo-paquete-m.png" style="background-repeat: no-repeat; background-position: right; background-size: cover;">
+        <td colspan="2" background="img/nuevo-paquete-m.png" style="background-repeat: no-repeat; background-position: right; background-size: cover; background-position: center bottom;">
         </td>
       </tr>
       <tr>
